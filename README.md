@@ -1,6 +1,6 @@
 
 
-<h1 align="center">/ Hi Everyone, I'm Stevie P M Wong /</h1>
+<h1 align="center"> Hi Everyone, I'm Stevie P M Wong.</h1>
 <h3 align="center">A programming hobbyist who finds the geeky world of coding very humbling.</h3>
 
 - 🔭 I’m currently working on **vssApp** [vssApp](https://github.com/pmwong008/vssApp.git)
@@ -17,7 +17,7 @@
 
 - 📫 My personal website **stevie.hk** [stevie.hk](https://stevie.hk)
 
-<h3 align="left">Most of the programming and software skills I have acquired are self-taught, and I used them at work. It was not until recently that I received formal training in back-end web development. It is facinating!</h3>
+<h4 align="left">Most of the programming and software skills I have acquired are self-taught, and I used them at work. It was not until recently that I received formal training in back-end web development. It is facinating!</h4>
 <p align="left">
 </p>
 
