@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
-**pmwong008/pmwong008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi Everyone, I'm Stevie P M Wong</h1>
+<h3 align="center">A programming hobbyist who finds the geeky world of coding very humbling.</h3>
 
-<h1 align="center">Hi 👋, I'm Stevie P M Wong</h1>
-<h3 align="center">A programming hobbyist with a goal to making life more easily bearable for all.</h3>
-
-- 🔭 I’m currently working on **VssApp**
+- 🔭 I’m currently working on **vssApp** [vssApp](https://github.com/pmwong008/vssApp.git)
 
 - 🌱 I’m currently learning **Node.js, mongoDB, and Git**
 
@@ -17,6 +14,8 @@
 - 💬 Ask me about **SketchUp, AutoCAD, Adobe**
 
 - 📫 How to reach me **pmwong008@gmail.com**
+
+- 📫 My personal website **stevie.hk** [stevie.hk](https://stevie.hk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
