@@ -3,22 +3,24 @@
 <h1 align="center"> Hi Everyone, I'm Stevie P M Wong.</h1>
 <h3 align="center">A programming hobbyist who finds the geeky world of coding very humbling.</h3>
 
-- 🔭 I’m currently working on **vssApp** [vssApp](https://github.com/pmwong008/vssApp.git)
+- 🔭 I’m currently working on **vssApp.** [vssApp](https://github.com/pmwong008/vssApp.git)
 
-- 🌱 I’m currently learning **Node.js, mongoDB, and Git**
+- 🌱 I’m currently learning **Node.js, mongoDB, and Git.**
 
 - 👯 I’m looking to collaborate on **with groups or organisations that involve volunteering services.**
 
 - 🤝 I’m looking for help with **Ethical hacking.**
 
-- 💬 Ask me about **SketchUp, AutoCAD, Adobe**
+- 💬 Ask me about **SketchUp, AutoCAD, Adobe.**
 
 - 📫 How to reach me **pmwong008@gmail.com**
 
 - 📫 My personal website **stevie.hk** [stevie.hk](https://stevie.hk)
-```
-Most of the programming and software skills I have acquired are self-taught, and I used them at work. It was not until recently that I received formal training in back-end web development. It is facinating!
-```
+
+    Most of the programming and software skills I have acquired are
+    self-taught, and I used them at work. It was not until recently that
+    I received formal training in back-end web development. It is facinating!
+
 <p align="left">
 </p>
 
