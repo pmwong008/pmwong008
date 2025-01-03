@@ -1,7 +1,7 @@
-## Hi there 👋
 
-<h1 align="center">Hi Everyone, I'm Stevie P M Wong</h1>
-<h3 align="center">A programming hobbyist who finds the geeky world of coding very humbling.</h3>
+
+<h1 align="center">#< Hi Everyone, I'm Stevie P M Wong ></h1>
+<h3 align="center">##A programming hobbyist who finds the geeky world of coding very humbling.</h3>
 
 - 🔭 I’m currently working on **vssApp** [vssApp](https://github.com/pmwong008/vssApp.git)
 
