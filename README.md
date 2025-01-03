@@ -17,7 +17,7 @@
 
 - 📫 My personal website **stevie.hk** [stevie.hk](https://stevie.hk)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Most of the programming and software skills I have acquired are self-taught, and I used them at work. It was not until recently that I received formal training in back-end web development. It is facinating!</h3>
 <p align="left">
 </p>
 
