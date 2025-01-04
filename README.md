@@ -3,7 +3,7 @@
 # Hi Everyone, I'm Stevie P M Wong.
 ## A programming hobbyist who finds the geeky world of coding very humbling.
 
-- 🔭 I’m currently working on **vssApp.** [vssApp](https://github.com/pmwong008/vssApp.git)
+- 🔭 I’m currently working on [vssApp](https://github.com/pmwong008/vssApp.git), a back-end web development project.
 
 - 🌱 I’m currently learning **Node.js, mongoDB, and Git.**
 
