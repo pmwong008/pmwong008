@@ -17,7 +17,7 @@
 
 - 📫 My personal website **[stevie.hk](https://stevie.hk)**
 ```
-Most of the programming and software skills I have acquired are self-taught, and I used them at work. It was not until recently that I received formal training in back-end web development. It is facinating!
+Most of the programming and software skills I have acquired are through self-paced-online learning. It was not until recently that I received formal training in back-end web development. It is facinating!
 ```
 <p align="left">
 </p>
