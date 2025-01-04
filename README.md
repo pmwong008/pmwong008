@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **SketchUp, AutoCAD, Adobe.**
 
-- 📫 How to reach me **pmwong008@gmail.com**
+- 📫 I can be reached at **pmwong008@gmail.com**
 
-- 📫 My personal website [stevie.hk](https://stevie.hk)
+- 📫 My personal website **[stevie.hk]**(https://stevie.hk)
 ```
 Most of the programming and software skills I have acquired are self-taught, and I used them at work. It was not until recently that I received formal training in back-end web development. It is facinating!
 ```
